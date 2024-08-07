@@ -17,5 +17,5 @@ A simple weather application that fetches and displays the current weather infor
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/subham-kumar-25/Weather-App.git
    ```
